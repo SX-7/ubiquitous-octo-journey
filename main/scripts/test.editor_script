@@ -1,7 +1,0 @@
-local M = {}
-
-function M.get_commands()
-    return {}
-end
-
-return M
